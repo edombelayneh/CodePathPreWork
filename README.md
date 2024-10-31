@@ -70,11 +70,13 @@ This app provides a great hands-on introduction to working with user interface e
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Image Display and Resource Management
+   - Challenge: Displaying an image correctly in the UIImageView required adding the image to the asset catalog, setting it up in the code, and ensuring the image is linked to the UIImageView.
+   - Solution: Add images to the Assets.xcassets folder and ensure the correct name is used in the code. Regularly preview in Storyboard to confirm the image loads correctly.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] Edom Belayneh
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
