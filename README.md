@@ -26,6 +26,9 @@ This app provides a great hands-on introduction to working with user interface e
   <img src="https://img.youtu.com/vi/URnpOxUfMD8/0.jpg" alt="HueTap" width="400"/>
 </a>
 
+[![Watch the video](https://img.youtube.com/vi/URnpOxUfMD8/0.jpg)](https://youtu.be/URnpOxUfMD8)
+
+
 ## App Brainstorming (Step 4)
 1. Spotify
 
